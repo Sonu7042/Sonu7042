@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**Sonu7042/Sonu7042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm [Your Name] 👋
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Project Name].
+- 🌱 I’m learning [Technologies or Languages].
+- 📫 How to reach me: [Your Email or Social Links].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects:
+- [Project 1](link)
+- [Project 2](link)
+- [Project 3](link)
+
+## Contact:
+- Email: [youremail@example.com]
+- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
