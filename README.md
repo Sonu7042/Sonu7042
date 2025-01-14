@@ -1,13 +1,11 @@
 # Welcome to My GitHub Profile
 
-Hi, I'm [Your Name] 👋
+Hi, I'm Sonu Sing 👋
 
-- 🔭 I’m currently working on [Project Name].
-- 🌱 I’m learning [Technologies or Languages].
-- 📫 How to reach me: [Your Email or Social Links].
 
 ## My Projects:
-- [Project 1](link)
+- [Project 1](link)![hacker-gif](https://github.com/user-attachments/assets/a8bc8329-59dd-4602-9893-7890bb40b591)
+
 - [Project 2](link)
 - [Project 3](link)
 
