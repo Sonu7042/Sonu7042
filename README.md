@@ -1,8 +1,1 @@
-                                                                                  # Welcome
-                                                                              # Hi, I'm Sonu Sing 👋
-
-
-
-
-                                                [hacker-gif](https://github.com/user-attachments/assets/a8bc8329-59dd-4602-9893-7890bb40b591)
-
+                                ![hacker-gif](https://github.com/user-attachments/assets/02ea81b7-3fa9-46aa-a947-941c4da15e3a)
